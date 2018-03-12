@@ -1,0 +1,12 @@
+{
+  "name": "theu",
+  "version": "0.0.0",
+  "description": "@theutia/theutia command alias",
+  "repository": "github: theutia/theutia",
+  "author": "ndxbn <sitri.ndxbn@gmail.com> (https://twitter.com/ndxbn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theutia/theutia/issue"
+  },
+  "homepage": "https://github.com/theutia/theutia#readme"
+}
