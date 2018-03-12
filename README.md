@@ -1,2 +1,2 @@
 # theu
-[@theutia/theutia](https://github.com/theutia/theutia) command alias
+[@theutia/theutia](https://github.com/theutia/theutia) command alias.
