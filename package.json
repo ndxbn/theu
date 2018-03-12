@@ -8,5 +8,8 @@
   "bugs": {
     "url": "https://github.com/theutia/theutia/issue"
   },
-  "homepage": "https://github.com/theutia/theutia#readme"
+  "homepage": "https://github.com/theutia/theutia#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
