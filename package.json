@@ -1,8 +1,8 @@
 {
   "name": "@ndxbn/theu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "@theutia/theutia command alias",
-  "repository": "github: theutia/theutia",
+  "repository": "github:theutia/theutia",
   "author": "ndxbn <sitri.ndxbn@gmail.com> (https://twitter.com/ndxbn)",
   "license": "MIT",
   "bugs": {
