@@ -9,7 +9,14 @@
     "url": "https://github.com/theutia/theutia/issue"
   },
   "homepage": "https://github.com/theutia/theutia#readme",
+  "bin": "cli.js",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "dependencies": {
+    "theu": "0.0.2"
+  },
+  "bundleDependencies": [
+    "theu"
+  ]
 }
